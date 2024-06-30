@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+## First Of All
+
+Set up a env file where you can define your NEXT_PUBLIC_FILESTACK_API_KEY;
+
+To get this Api Key, you have to go to https://www.filestack.com/
+Create a free acount with and copy the API KEY.
+
+Paste it in your env file
+
 ## Getting Started
 
 First, run the development server:
